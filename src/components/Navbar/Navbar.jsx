@@ -24,17 +24,17 @@ const Navbar = () => {
           </a>
         </li>
         <li className='p__opensans'>
-          <a href="#contact-us">
+          <a href="#contact">
             Contact Us
           </a>
         </li>
         <li className='p__opensans'>
-          <a href="#blog">
+          <a href="https://github.com/ShambhavII-Singh">
             Blog
           </a>
         </li>
         <li className='p__opensans'>
-          <a href="#Landing">
+          <a href="#landing">
             Landing
           </a>
         </li>

@@ -7,7 +7,7 @@ import './Gallery.css';
 const galleryImages = [images.gallery01, images.gallery02, images.gallery03, images.gallery04];
 
 const Gallery = () => (
-    <div className="app__gallery flex__center section__padding">
+    <div className="app__gallery flex__center section__padding" id='landing'>
       <div className="app__gallery-content">
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
